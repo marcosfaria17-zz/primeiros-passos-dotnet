@@ -1,0 +1,13 @@
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\marco\Google Drive\Estudando\primeiros-passos-dotnet\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
